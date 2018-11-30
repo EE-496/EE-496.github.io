@@ -1,4 +1,5 @@
 github:
   repository_url: https://github.com/EE-496
+theme: jekyll-theme-slate
 title: EE-496
 description: [Unity Game Development]

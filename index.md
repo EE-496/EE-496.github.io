@@ -1,4 +1,4 @@
-<a href="honu.exe" download><img width="100px" src="docs/download.png"></a>
+<a href="honu.exe" download><img width="300px" src="docs/download.png"></a>
 
 # Table of contents
 

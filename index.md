@@ -20,7 +20,7 @@ Our EE 496 Capstone project is to create a game in Unity, a cross-platform game 
 
 [You can view the GitHub repo for our game here](https://github.com/EE-496/honu)
 
-# System Walkthough
+# System Walkthrough
 The main menu allows you to do one of the following: start game, start duel mode, turn background music on/off, and turn sound effects on/off.  The main menu also displays your high score!  
 
 ### Mini games
@@ -44,10 +44,10 @@ As you play, you can view how much time you have left for a mini game by checkin
 
 **Rules:**
 
-The rules behind Duel Mode are similar to soccer. There exists two players that are trying to score goals by hitting a ball into the opponent’s goal. You are the red player and are trying the get the white ball into the goal on the right side of the field while also protecting the blue player from getting the ball in your goal on the left side of the field. 
+The rules behind Duel Mode are similar to soccer. There exists two players that are trying to score goals by hitting a ball into the opponent’s goal. You are the red player and are trying the get the white ball into the goal on the right side of the field while also protecting your own goal on the left from the blue player. 
 
 # Installation Instructions
-* [download a copy of the game](https://github.com/EE-496/honu) by cloning the repository using ```git clone``` and opening it in the Unity Game Engine to edit it, or <a href="honu.exe" download>download the executable file here</a>.
+Download a copy of the game](https://github.com/EE-496/honu) by cloning the repository using ```git clone``` and opening it in the Unity Game Engine to edit it, or <a href="honu.exe" download>download the executable file here</a>.
 
 # Application Design
 
@@ -80,7 +80,7 @@ We created a collection of minigames using various game mechanics in order to fa
 The goals of Phase 1 included the following: 
 * Create a set of short, consecutive minigames to familiarize ourselves with the Unity Game Engine
 
-**List of minigames:**
+**Minigames:**
 
 * Make the poke bowl
 

@@ -18,34 +18,36 @@
 # About
 Our EE 496 Capstone project is to create a game in Unity, a cross-platform game development engine used to build high quality 3D and 2D games.  We chose this project in order to gain experience designing a product that incorporates various aspects of game development including project management and machine learning.  Our objective is to learn how to design, produce, and release a product while also learning how to use popular tools, such as the Unity game engine, and programming languages, such as C#.  
 
-[You can view the game here](https://github.com/EE-496/honu)
+[You can view the GitHub repo for our game here](https://github.com/EE-496/honu)
 
 # System Walkthough
-The main menu allows you to do one of the following: start game, duel mode, turn background music on/off, and turn sound effects on/off.  The main menu also displays your high score!  
+The main menu allows you to do one of the following: start game, start duel mode, turn background music on/off, and turn sound effects on/off.  The main menu also displays your high score!  
 
 ### Mini games
 
 **Rules:**
+
 When you start the game, you are presented with one of the following mini games:
-* Make the poke bowl
-* Reel in the fish
-* Hurricane proof the windows
-* Help the turtle swim
-* Remember the sequence
-* Chop the log
-* Swat the flies
+* Make the poke bowl - drag the items into the bowl
+* Reel in the fish - spin the wheel clockwise 5 times
+* Hurricane proof the windows - drag the squares along the 'X' path
+* Help the turtle swim - alternate pressing keys 'a' and 'd' to move back and forward
+* Type the sequence - type out the random sequence of letters shown
+* Chop the log - press the spacebar/click when the marker is over the green area
+* Swat the flies - click all of the flies shown on the screen as they move around
 
 As you play, you can view how much time you have left for a mini game by checking the progress bar.  
 
 ### Duel Mode
 
-<img width="400px" src="docs/flies.png">
+<img width="400px" src="docs/duel.png">
 
 **Rules:**
 
+The rules behind Duel Mode are similar to soccer. There exists two players that are trying to score goals by hitting a ball into the opponent’s goal. You are the red player and are trying the get the white ball into the goal on the right side of the field while also protecting the blue player from getting the ball in your goal on the left side of the field. 
 
 # Installation Instructions
-* [download a copy of the game](https://github.com/EE-496/honu) by cloning the repository using ```git clone``` and opening it in the Unity Game Engine.
+* [download a copy of the game](https://github.com/EE-496/honu) by cloning the repository using ```git clone``` and opening it in the Unity Game Engine to edit it, or <a href="honu.exe" download>download the executable file here</a>.
 
 # Application Design
 
@@ -78,20 +80,32 @@ We created a collection of minigames using various game mechanics in order to fa
 The goals of Phase 1 included the following: 
 * Create a set of short, consecutive minigames to familiarize ourselves with the Unity Game Engine
 
+**List of minigames:**
+
 * Make the poke bowl
 
 <img width="400px" src="docs/poke.png">
+
 * Reel in the fish
 
 <img width="400px" src="docs/reel.png">
+
 * Hurricane proof the windows
+
+<img width="400px" src="docs/hurricane.png">
+
 * Help the turtle swim
-* Remember the sequence
+
+<img width="400px" src="docs/turtle.png">
+
+* Type the sequence
 
 <img width="400px" src="docs/sequence.png">
+
 * Chop the log
 
 <img width="400px" src="docs/chop.png">
+
 * Swat the flies
 
 <img width="400px" src="docs/flies.png">
